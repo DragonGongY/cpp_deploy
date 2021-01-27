@@ -1,0 +1,6 @@
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/format.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/rebuild_cache.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/yaml-cpp.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/debuggable.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/edit_cache.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/releasable.dir

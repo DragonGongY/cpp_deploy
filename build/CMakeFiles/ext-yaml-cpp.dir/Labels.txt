@@ -1,0 +1,13 @@
+# Target labels
+ ext-yaml-cpp
+# Source files and their labels
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/ext-yaml-cpp
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/ext-yaml-cpp.rule
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/ext-yaml-cpp-complete.rule
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-stamp/ext-yaml-cpp-install.rule
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-stamp/ext-yaml-cpp-mkdir.rule
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-stamp/ext-yaml-cpp-download.rule
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-stamp/ext-yaml-cpp-update.rule
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-stamp/ext-yaml-cpp-patch.rule
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-stamp/ext-yaml-cpp-configure.rule
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-stamp/ext-yaml-cpp-build.rule

@@ -1,0 +1,16 @@
+In file included from /media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/src/nodebuilder.cpp:6:0:
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/include/yaml-cpp/node/impl.h: In member function ‘YAML::Node& YAML::Node::operator=(const T&)’:
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/include/yaml-cpp/node/impl.h:212:11: warning: ‘operator=’ should return a reference to ‘*this’ [-Weffc++]
+   return *this;
+           ^~~~
+In file included from /media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/include/yaml-cpp/node/convert.h:18:0,
+                 from /media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/src/convert.cpp:3:
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/include/yaml-cpp/node/impl.h: In member function ‘YAML::Node& YAML::Node::operator=(const T&)’:
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/include/yaml-cpp/node/impl.h:212:11: warning: ‘operator=’ should return a reference to ‘*this’ [-Weffc++]
+   return *this;
+           ^~~~
+In file included from /media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/src/parse.cpp:7:0:
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/include/yaml-cpp/node/impl.h: In member function ‘YAML::Node& YAML::Node::operator=(const T&)’:
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp/include/yaml-cpp/node/impl.h:212:11: warning: ‘operator=’ should return a reference to ‘*this’ [-Weffc++]
+   return *this;
+           ^~~~

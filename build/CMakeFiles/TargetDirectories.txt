@@ -1,0 +1,10 @@
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/rebuild_cache.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/edit_cache.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/video_detector.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/video_segmenter.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/paddlex_inference.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/ext-yaml-cpp.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/segmenter.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/classifier.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/detector.dir
+/media/dp/LinuxData/Algorithms/PaddleX-develop/deploy/cpp/build/CMakeFiles/video_classifier.dir
